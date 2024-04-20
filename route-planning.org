@@ -1,0 +1,59 @@
+* route planning
+车类型, 按照有代表的车分类
+bt5: 小车, 有机动, 没防护, 打中坦能穿侧面
+m42/ltpsv90: 小车, 有机动, 能过穿, 打中坦能穿侧面, 打脆皮随便打
+m18: 有机动, 没防护, 较高的穿深
+pvkv2/ikv91: 打狙车, 有俯角, 没机动, 没先手, 没装填, 打重坦能穿正面, 被轻坦防空乱杀/ikv91有激光测距
+丘吉尔鳄鱼: 乌龟, 正面只有头皮是弱点, 侧面只有同权重最高穿深的车能穿, 炮只能打近战
+班德卡农: 没转向, 没射界, 火力输出快, 穿深高, 弹速快
+虎式: 可以打狙, 可以打正面, 机动勉强支持开局桡侧, 但不支持转场, 装甲比较魔法
+t3485: 不适合打狙, 不适合打正面, 机动支持开局绕侧和转场, 有对抗防空车的装甲
+
+* ardennes
+[[./map/ardennes.png]]
+** 蓝色方
+- 先去b吃点, 然后在c4底部位置打c5的敌人, 然后到c4上部压刚出家的人
+- 先去c吃点, 然后在e6的反斜面压家
+- bt5: 可以占完b点后, 在c3右下角的房子里蹲人
+- 班德卡农: 可以在e3架a点b点之间
+- pvkv2: 去bc之间容易死
+** 红色方
+- 先去a吃点, 然后没然后了, d2那里压家好像压不到家
+- 先去c4打e3的人, 1000m距离, 打不过就去吃点, 然后没有然后了
+- pvkv2: 可以去c8那里架c点, 防止敌方压家, 收益很低, 一般能赚6-7次点亮, 杀一到两个
+
+* battleofhurtgen
+[[./map/battleofhurtgen.png]]
+** 蓝色方
+- bt5: 可以开局抢c, 然后往e5冲锋, 先看f5有没有敌人, 然后打d5的敌人, 最后起飞机. 运气好能杀3个, 运气差吃完点就死
+- m18: 可以开局抢c, 然后往家里逃跑, 再去g5打狙(大雾). 能杀三个到五个, 然后被飞机复仇
+- ikv91: 开局去d1, 有一个坡, 坡上有两棵树, 蹲那里打狙. 一局能赚十几次点亮, 能杀2-4个
+** 红色方
+- bt5: 开局抢b, 因为抢c比较危险(?). 然后往e3冲锋, 最后起飞机. 运气好能杀1个重坦
+- m42: 开局抢b, 然后往e3冲锋, 最后起飞机. 运气好能杀1个脆皮+1个中坦
+- 虎式: 开局去f6绕侧, 往f3走, 打e3的人, 首上装甲避免被e3的人打死, 然后在f3的坡上架出生点
+- m18: 开局去f6绕侧, 往f3走, 打e3的人, 在敌人反应过来前去f3的坡上架出生点
+* carpathians
+[[./map/carpathians.png]]
+* europeanprovince
+[[./map/europeanprovince.png]]
+* finland
+[[./map/finland.png]]
+* fulda
+[[./map/fulda.png]]
+* groundzero
+[[./map/groundzero.png]]
+* jungle
+[[./map/jungle.png]]
+* karelia
+[[./map/karelia.png]]
+* kuban
+[[./map/kuban.png]]
+* maginotline
+[[./map/maginotline.png]]
+* middleeast
+[[./map/middleeast.png]]
+* poland
+[[./map/poland.png]]
+* tunisia
+[[./map/tunisia.png]]
