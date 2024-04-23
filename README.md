@@ -2,6 +2,11 @@
 
 this will be the website of my personal war thunder thoughts.
 
+# CONTENTS
+[走线](./route-planning.org)
+
+[载具评价](./vehicle-rating.org)
+
 # format
 currently i will write this in emacs orgmode
 
