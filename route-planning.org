@@ -154,6 +154,7 @@ https://www.bilibili.com/video/BV1KZ42177Qk/
 - 快车: 开局去e6和f6交接处的山头
 * maginotline
 [[./map/maginotline.png]]
+TODO: 高权重地不一样
 ** 蓝色方
 - 快车: 开局抢c, 然后往b7走, 偷人+压家
 ** 红色方
@@ -185,14 +186,47 @@ https://www.bilibili.com/video/BV1KZ42177Qk/
 ** 蓝色方
 - 打狙车: 开局从右边出生, 到e5-e6交界处架c2的敌人. 高权重可以在e6-e6-f5-f6交界处架, 避免被反杀. 收益: 一般
 - 3485: 开局从左边出生, 从打直接冲入c2打近战. 收益: 不确定. 视频: https://www.bilibili.com/video/BV1iL411k7JF/
-
 ** 红色方
 - *高收益* 通用: 从右边复活, 开局往c5-d5交界处走, 到位后架中间的河. 然后e5往走, 注意e5-e6交界处的的敌人, 注意e4的敌人. 清完敌人后然后压两边的家, 左边是400m 右边是200m. 收益: 10个左右. 视频: https://www.bilibili.com/video/BV15A411h7Dt/
 - 伸缩型打狙车: 从左边复活, 开局往a4走, 架e2和e4. 
 - 不能伸缩型打狙车: 从右边复活, 开局往a5走, 架e4和c6
+* advancetotherhine
+[[./map/advancetotherhine.png]]
+** 蓝色方
+- 重坦: 开局往d2右下角走, 看c2右下角和d2上方.
+- 通用: 右边复活, 开局往c点走. 然后往d4走, 路上注意冲过来的轻坦. 到d4后根据a点附近有无敌人, 选择往c4打或者直接进a点上方架路口.
+- 打狙车: 右边复活, 去f7最右侧打狙. 收益: 不稳定
+** 红色方
+- 通用: 右边复活, 开局往b点走. 然后往a点走, 路上注意公园和d4冲过来的轻/中坦. 没敌人就占a, 有敌人就在c5反架. 清空后前往e3-e4交界处压家.
+- 打狙车: 左边复活, 开局前往c3上方, 架e2-e3-d3-d2的路口.
+* americandesert
+[[./map/americandesert.png]]
+** 蓝色方
+- 快车: 右边复活, 开局往d6走. 在d6关发动机等待3分钟后, 往c4走, 打b点敌人的屁股. 然后根据情况, 起飞机, 或者继续在c4右上角架. 收益: 光速五杀.
+- 中坦, 重坦: 开局往e4走. e4敌人多就一直架. 如果能清空e4, 从d3-d4交界处前往d3-c3交界处. 收益: 76酱爆可以核弹.
+- 打狙车: 左边复活, 往d3下方走, 架f2和e3. 收益: 2个左右
+** 红色方
+- 娱乐点位: 右边复活, 从a4的坡爬上去, 可以反架c4和b6. is3可以爬上去, 但是t72爬不上去.
+- 小车: 左边复活, 冲a. 然后从e3往f4打, 然后绕b点. 收益: 保底起飞机. 视频: https://www.bilibili.com/video/BV1cC4y127kb
+- 快车: 左边复活, 冲a. 然后围绕a打. 收益: 保底起飞机. 视频: https://www.bilibili.com/video/BV1pu4y1u7yk/
+- 重坦: 左边复活, 开局往d3中上方走, 架e3出来的快车和b点突进的敌人. 收益: 还行
+* goldenquarry
+[[./map/goldenquarry.png]]
+** 蓝色方
+- 小车: 冲a起飞机
+- 快车, 防空: 开局冲c3-c4交界处和敌人爆了
+- 通用: 上方复活, 从d5下方沿着墙走到d4, 到达b点侧面. 然后往d3走, 透过门洞可以打c3. 收益: 不错
+- 重坦: 开局冲a, 清空后前往b3压家. 收益: 颇低.
+** 红色方
+- 小车: 冲a起飞机, 然后去d5-c6交界处和敌人爆了. 视频: https://www.bilibili.com/video/BV1qs4y1E79S
+- TODO: 其他的不会走
+* normandy
+[[./map/normandy.png]]
 
-
-
-
-
+* pradesh
+[[./map/pradesh.png]]
+* secondbattleofelalamein
+[[./map/secondbattleofelalamein.png]]
+* testsite
+[[./map/testsite.png]]
 
