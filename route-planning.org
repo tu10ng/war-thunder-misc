@@ -178,19 +178,20 @@ TODO: 高权重地不一样
 [[./map/poland.png]]
 ** 蓝色方
 - 快车: 开局抢a, 在占点时注意从a点下方来偷袭的敌人. 占完点就往前冲找敌人爆了. 
-- 快车: 开局去b, 然后从b点往d3处绕后. 视频: https://www.bilibili.com/video/BV1se4y1T7U8/
+- 快车: 开局去b, 然后从b点往d3处绕后. 参考: https://www.bilibili.com/video/BV1se4y1T7U8/
 - *低收益* 快车: 开局往a4走
 ** 红色方
 - is2: 往b点走, 在d4这里停留. 这里可以架c点, 以及b点出来的敌人. 收益: 5个左右
 - 打狙车: 开局从下面出生, 在e3-e4交界处停留, 按照700m架b点. 如果c点掉了, 这里也可以打c点. 等大概没有敌人想来c点了, 到e4左下角压家.
+- m18: 开局去b, 然后打e6的人. 之后看情况. 参考: 言zzxd
 * tunisia
 [[./map/tunisia.png]]
 红色方优势
 ** 蓝色方
 - 打狙车: 开局从右边出生, 到e5-e6交界处架c2的敌人. 高权重可以在e6-e6-f5-f6交界处架, 避免被反杀. 收益: 一般
-- 3485: 开局从左边出生, 从打直接冲入c2打近战. 收益: 不确定. 视频: https://www.bilibili.com/video/BV1iL411k7JF/
+- 3485: 开局从左边出生, 从打直接冲入c2打近战. 收益: 不确定. 参考: https://www.bilibili.com/video/BV1iL411k7JF/
 ** 红色方
-- *高收益* 通用: 从右边复活, 开局往c5-d5交界处走, 到位后架中间的河. 然后e5往走, 注意e5-e6交界处的的敌人, 注意e4的敌人. 清完敌人后然后压两边的家, 左边是400m 右边是200m. 收益: 10个左右. 视频: https://www.bilibili.com/video/BV15A411h7Dt/
+- *高收益* 通用: 从右边复活, 开局往c5-d5交界处走, 到位后架中间的河. 然后e5往走, 注意e5-e6交界处的的敌人, 注意e4的敌人. 清完敌人后然后压两边的家, 左边是400m 右边是200m. 收益: 10个左右. 参考: https://www.bilibili.com/video/BV15A411h7Dt/
 - 伸缩型打狙车: 从左边复活, 开局往a4走, 架e2和e4. 
 - 不能伸缩型打狙车: 从右边复活, 开局往a5走, 架e4和c6
 * advancetotherhine
@@ -210,9 +211,9 @@ TODO: 高权重地不一样
 - 打狙车: 左边复活, 往d3下方走, 架f2和e3. 收益: 2个左右
 ** 红色方
 - 娱乐点位: 右边复活, 从a4的坡爬上去, 可以反架c4和b6. is3可以爬上去, 但是t72爬不上去.
-- 小车: 左边复活, 冲a. 然后从e3往f4打, 然后绕b点. 收益: 保底起飞机. 视频: https://www.bilibili.com/video/BV1cC4y127kb
-- m18: 左边复活, 从d3冲b, 以b点中央的白色雕像为掩体, 注意道路尽头的敌人. 占完点后去d5绕侧. 收益: 3个头左右
-- 快车: 左边复活, 冲a. 然后围绕a打. 收益: 保底起飞机. 视频: https://www.bilibili.com/video/BV1pu4y1u7yk/
+- 小车: 左边复活, 冲a. 然后从e3往f4打, 然后绕b点. 收益: 保底起飞机. 参考: https://www.bilibili.com/video/BV1cC4y127kb
+- m18: 左边复活, 从d3冲b, 以b点中央的白色雕像为掩体, 注意道路尽头的敌人. 占完点后去d5绕侧. 收益: 3个头左右. 参考: 言zzxd
+- 快车: 左边复活, 冲a. 然后围绕a打. 收益: 保底起飞机. 参考: https://www.bilibili.com/video/BV1pu4y1u7yk/
 - 重坦: 左边复活, 开局往d3中上方走, 架e3出来的快车和b点突进的敌人. 收益: 还行
 * goldenquarry
 [[./map/goldenquarry.png]]
@@ -222,7 +223,7 @@ TODO: 高权重地不一样
 - 通用: 上方复活, 从d5下方沿着墙走到d4, 到达b点侧面. 然后往d3走, 透过门洞可以打c3. 收益: 不错
 - 重坦: 开局冲a, 清空后前往b3压家. 收益: 颇低.
 ** 红色方
-- 小车: 冲a起飞机, 然后去d5-c6交界处和敌人爆了. 视频: https://www.bilibili.com/video/BV1qs4y1E79S
+- 小车: 冲a起飞机, 然后去d5-c6交界处和敌人爆了. 参考: https://www.bilibili.com/video/BV1qs4y1E79S
 - TODO: 其他的不会走
 * normandy
 [[./map/normandy.png]]
